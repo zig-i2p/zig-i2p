@@ -64,3 +64,6 @@ pip install -r requirements.txt
 
 А если у вас появляется строка:
 `Your Password ваш пароль is Vulnerble`, то пиздец. Пароль попал в базу.
+
+
+https://sourcegraph.com/github.com/Aniket965/Hello-world@647bad9da901a52d455f05ecc37c6823c22dc77e/-/blob/Python/webscraper.py?subtree=true&utm_source=share#L2:8
